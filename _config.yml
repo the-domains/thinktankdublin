@@ -1,0 +1,28 @@
+name: Thinktankdublin
+favicon: null
+layout_spectrum: 0.36418811441399157
+typography_spectrum: 0.6985137131996453
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8210420715622604
+  lightness: 0.869792320067063
+  saturation: 0.7461626809090376
+  rhythmicContrast: 0.7289006516803056
+purpose: []
