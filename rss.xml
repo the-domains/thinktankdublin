@@ -4,7 +4,7 @@
         <description><![CDATA[Thoughts and ideas in a modern world]]></description>
         <link>https://thegrid.ai/thinktankdublin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 08:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 08:38:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thinktankdublin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[nVidea rendering farm]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/thinktankdublin/21e37a4c-ceeb-446f-a504-84605f6ed3ea/index.html</link>
             <guid isPermaLink="false">21e37a4c-ceeb-446f-a504-84605f6ed3ea</guid>
             <pubDate>Sun, 27 Dec 2015 08:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c412894ea3ff3f77b5feb14d9cbe8eabb95f85e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thinktankdublin/introduction/index.html</link>
+            <guid isPermaLink="false">36e8e1a9-47a7-4474-9713-79104755c29b</guid>
+            <pubDate>Sun, 27 Dec 2015 08:38:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
